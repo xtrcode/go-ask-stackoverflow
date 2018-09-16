@@ -18,7 +18,7 @@ To parse Google.com and StackOverflow.com goquery is used.
 
 `$ go build -o ask main.go`
 
-Now you can move the executable to your preffered location (e.g. `/usr/bin`) and just
+Now you can move the executable to your preferred location (e.g. `/usr/bin`) and just
 
 ## Enjoy
 `& ask what every you want`

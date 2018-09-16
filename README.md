@@ -26,5 +26,5 @@ Now you can move the executable to your preferred location (e.g. `/usr/bin`) and
 # Credits
 go-ask-stackoverflow is inspired by https://github.com/juliusmh/ask
 
-# LICENCE
+# LICENSE
 MIT

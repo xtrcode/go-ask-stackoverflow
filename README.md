@@ -5,7 +5,7 @@ go-ask-stackoverflow is a simple terminal appilcation which quickly responds to 
 
 ```bash
 $ git clone github.com/xtrcode/go-ask-stackoverflow
-$ cd go-ask-stackoverflow/main
+$ cd go-ask-stackoverflow/
 $ go build -o ask main.go
 ```
 Now you can move the executable to your preferred location (e.g. `/usr/bin`) and just
